@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ihuhu9998-cmyk.github.io/shitu-machinery/sitemap.xml
+Sitemap: https://hujianhua.shop/sitemap.xml
