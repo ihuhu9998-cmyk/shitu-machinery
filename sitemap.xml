@@ -7,15 +7,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://hujianhua.shop/outdoor-wood-stoves</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://hujianhua.shop/privacy</loc>
     <lastmod>2026-11-23</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hujianhua.shop/terms</loc>
     <lastmod>2026-11-23</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
